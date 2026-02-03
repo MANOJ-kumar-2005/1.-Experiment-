@@ -75,7 +75,7 @@ Attention(Q,K,V) = softmax(Q·Kᵀ / √d𝑘) · V
 
 This lets the model focus on relevant words anywhere in the sequence — not just nearby ones.
 ## 3.     Generative AI architecture  and its applications
-<img width="1131" height="636" alt="image" src="https://github.com/user-attachments/assets/c95364dd-cc98-44de-94c4-da80c8d71442" />
+<img width="1167" height="618" alt="image" src="https://github.com/user-attachments/assets/4a656962-2bd6-4b2d-b0c7-6dda7b473b89" />
 
 Key Generative AI Architectures
 Transformers (LLMs): The backbone of modern AI (e.g., GPT), designed for processing sequential data, enabling advanced text generation, summarization, and translation.
